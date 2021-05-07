@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/womansec/ShakeAlert/bin/dexedLibs/android-support-v4-f80b3bfe6ff7255edb0afea027263649.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/ShakeAlert/bin/dexedLibs/android-support-v4-8ad2bb836e073cb0c255c0182e77666a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/ShakeAlert/bin/dexedLibs/android-support-v4-3ce3e5ba33e55c8eb6d2aac18607c369.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/ShakeAlert/bin/dexedLibs/android-support-v4-4386a957ce48e3f6388bc22ecfe442ca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

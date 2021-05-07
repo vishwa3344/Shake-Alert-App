@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sankalp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/warning"
+        android:label="Shakealert"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.sankalp.Home"
+            android:label="Shakealert" >
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+           
+        </activity>
+        <activity
+            android:name="com.example.sankalp.GpsInfoDetails"
+            android:label="@string/title_activity_gps_info_details" >
+        </activity>
+        <activity
+            android:name="com.example.sankalp.Profile"
+            android:label="@string/title_activity_profile" >
+           
+        </activity>
+        <activity
+            android:name="com.example.sankalp.Favouritecontacts"
+            android:label="@string/title_activity_favouritecontacts" >
+             
+        </activity>
+    </application>
+
+</manifest>

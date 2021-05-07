@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services_lib-25b01daa6f383bb6481dc9094d84a724.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v4-d9772378113ff1a307d435f49a487557.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services-702ef97236a60acf2248a77bb29823d3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v4-1edf63e799108b5249a5d89f49e58710.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v7-appcompat-40a4d41f60bee70929d9e92071ab6c47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services-c68a281112c83e905adb391c5ed1a978.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services_lib-2629a6547e960d75ca787d8a08a728c5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v7-appcompat-8ea0286df66189e0a8039d9210165f55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v7-appcompat-683f7acbe9d95bcc462bde20e20a0980.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services_lib-b6274544f8bc6b7f48c05f0b94d606ab.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/google-play-services-bf76394d4aa2594118f4a95c7efecdab.jar!/" />
+      <root url="jar://$PROJECT_DIR$/womansec/IntimationApp/bin/dexedLibs/android-support-v4-2b1b421a95aa71ddecf1bf2e14e1d403.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
